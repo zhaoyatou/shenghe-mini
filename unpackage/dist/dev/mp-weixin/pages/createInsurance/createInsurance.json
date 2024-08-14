@@ -1,0 +1,23 @@
+{
+  "navigationBarTitleText": "新建延保",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-loading-page": "/node-modules/uview-ui/components/u-loading-page/u-loading-page",
+    "u-sticky": "/node-modules/uview-ui/components/u-sticky/u-sticky",
+    "u--form": "/node-modules/uview-ui/components/u--form/u--form",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload",
+    "u-overlay": "/node-modules/uview-ui/components/u-overlay/u-overlay",
+    "u-transition": "/node-modules/uview-ui/components/u-transition/u-transition",
+    "u-picker": "/node-modules/uview-ui/components/u-picker/u-picker",
+    "u-datetime-picker": "/node-modules/uview-ui/components/u-datetime-picker/u-datetime-picker",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal"
+  }
+}

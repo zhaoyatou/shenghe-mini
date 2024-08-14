@@ -1,0 +1,47 @@
+
+.Summary.data-v-f3ea2db4 {
+  width: 100%;
+  padding: 10rpx 20rpx 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.queryform.data-v-f3ea2db4 {
+  width: 500rpx;
+  height: 100%;
+  background-color: #fff;
+  padding: 40rpx;
+}
+.hetong.data-v-f3ea2db4 {
+  font-size: 32rpx;
+}
+.shengxiao.data-v-f3ea2db4 {
+  color: #3e863c;
+  font-size: 32rpx;
+}
+.shixiao.data-v-f3ea2db4 {
+  color: #de2449;
+  font-size: 32rpx;
+}
+.caogao-shenhe.data-v-f3ea2db4 {
+  color: #000000;
+  font-size: 32rpx;
+}
+.listpage.data-v-f3ea2db4 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 40rpx 40rpx 220rpx 40rpx;
+}
+.tabs-box.data-v-f3ea2db4 {
+  padding: 0rpx 0rpx 20rpx;
+}
+.list-content-box.data-v-f3ea2db4 {
+  width: 100%;
+  padding: 20rpx;
+  background: #fcfcfc;
+  margin: 20rpx 0rpx;
+  box-sizing: border-box;
+  box-shadow: 0rpx 4rpx 0rpx #e4e3e1;
+  color: #939393;
+  font-weight: 600;
+}
+

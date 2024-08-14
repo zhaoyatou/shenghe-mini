@@ -1,0 +1,83 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+			"path" : "pages/home/home",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+			
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path" : "pages/createInsurance/createInsurance",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "新建延保",
+				"enablePullDownRefresh": false
+			}
+			
+		},
+		{
+			"path" : "pages/createInsurance/headsblock",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "手写签名",
+				"enablePullDownRefresh": false,
+				"pageOrientation": "landscape"
+			}
+			
+		},
+		{
+            "path" : "pages/listpage/listpage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "业务列表",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/submitpage/submitpage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/submitpage/failpage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+				{
+					"path" : "pages/user/modifyPwd",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "修改密码",
+						"enablePullDownRefresh": false
+					}
+				}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

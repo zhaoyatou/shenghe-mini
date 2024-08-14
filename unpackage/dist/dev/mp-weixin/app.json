@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/login/login",
+    "pages/createInsurance/createInsurance",
+    "pages/createInsurance/headsblock",
+    "pages/listpage/listpage",
+    "pages/submitpage/submitpage",
+    "pages/submitpage/failpage",
+    "pages/user/modifyPwd"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {},
+  "usingComponents": {}
+}
